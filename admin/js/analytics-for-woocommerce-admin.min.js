@@ -1,0 +1,1 @@
+jQuery(document).ready(function(o){jQuery(".mwb_anawoo_excluded_roles").select2(),jQuery(document).on("click",".mwb_anawoo_admin_close",function(){jQuery(".mwb_anawoo_admin_notice").css({opacity:0,transition:"opacity 0.5s"}).delay(100).slideUp()})});
